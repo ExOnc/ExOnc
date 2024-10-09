@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on LOINC/UCUM coding for cardiopulmonary exercise testing measures, physical actitivty questionnaires, and governmental physical activity guidelines.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I believe I submitted the first medical emoji, LOINC code 89843-7 for Fitzpatrick skin type classification (can adjust photoplethysmography heart rate monitors).
+- ⚡ Fun fact: I believe I submitted the first medical emoji, LOINC code 89843-7 for Fitzpatrick skin type classification (can adjust photoplethysmography heart rate monitors), also tied to Unicode.
 
 <!---
 ExOnc/ExOnc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
